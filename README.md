@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed1v0-181717?style=for-the-badge&logo=github)](https://github.com/ahmed1v0)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Ahmed1v0-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Ahmed1v0)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ahmed1v0-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahmed1v0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-user4033q-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/user4033q/)
 ![Profile views](https://komarev.com/ghpvc/?username=ahmed1v0&style=for-the-badge&color=7c3aed)
 
 </div>
@@ -95,8 +95,8 @@ Company discovery and lead intelligence platform.
 <a href="https://codeforces.com/profile/Ahmed1v0">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahmed1v0&theme=github_dark" height="205" alt="Codeforces stats" />
 </a>
-<a href="https://leetcode.com/u/ahmed1v0/">
-  <img src="https://leetcard.jacoblin.cool/ahmed1v0?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="205" alt="LeetCode stats and heatmap" />
+<a href="https://leetcode.com/u/user4033q/">
+  <img src="https://leetcard.jacoblin.cool/user4033q?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="205" alt="LeetCode stats and heatmap" />
 </a>
 
 ### Codeforces Rating History
@@ -105,12 +105,17 @@ Company discovery and lead intelligence platform.
 
 </div>
 
-> [!NOTE]
-> If your LeetCode username is not `ahmed1v0`, replace it in the two LeetCode URLs above.
-
 ## Contribution Activity
 
 <div align="center">
+
+### Animated 3D Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/ahmed1v0/ahmed1v0/output/github-3d-contrib-animate.svg" width="96%" alt="Animated 3D GitHub contribution calendar" />
+
+<br/><br/>
+
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed1v0/ahmed1v0/output/github-contribution-grid-snake-dark.svg" />
