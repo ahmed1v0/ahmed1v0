@@ -16,7 +16,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
@@ -33,6 +33,16 @@ jobs:
           python scripts/generate_codeforces_graph.py \
             --handle Ahmed1v0 \
             --output dist/codeforces-rating.svg
+
+      - name: Generate animated 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ahmed1v0
+
+      - name: Copy animated 3D contribution asset
+        run: |
+          cp profile-3d-contrib/profile-season-animate.svg dist/github-3d-contrib-animate.svg
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
