@@ -93,7 +93,7 @@ Company discovery and lead intelligence platform.
 <div align="center">
 
 <a href="https://codeforces.com/profile/Ahmed1v0">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahmed1v0&theme=github_dark" height="205" alt="Codeforces stats" />
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Ahmed1v0&theme=dark" height="205" alt="Codeforces stats" />
 </a>
 <a href="https://leetcode.com/u/user4033q/">
   <img src="https://leetcard.jacoblin.cool/user4033q?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="205" alt="LeetCode stats and heatmap" />
@@ -101,7 +101,9 @@ Company discovery and lead intelligence platform.
 
 ### Codeforces Rating History
 
-<img src="https://raw.githubusercontent.com/ahmed1v0/ahmed1v0/output/codeforces-rating.svg" width="92%" alt="Codeforces rating history for Ahmed1v0" />
+<a href="https://codeforces.com/profile/Ahmed1v0">
+  <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Ahmed1v0&theme=dark" width="92%" alt="Live Codeforces rating history for Ahmed1v0" />
+</a>
 
 </div>
 
@@ -115,12 +117,9 @@ Company discovery and lead intelligence platform.
 
 <br/><br/>
 
-### Contribution Snake
+### Live Contribution Heatmap
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed1v0/ahmed1v0/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ahmed1v0/ahmed1v0/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</picture>
+<img src="https://gh-heat.anishroy.com/api/ahmed1v0/svg?theme=purple&darkMode=true&shape=circle&shadow=true&transparent=true" width="96%" alt="Live GitHub contribution heatmap" />
 
 <br/><br/>
 
