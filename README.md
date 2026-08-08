@@ -39,15 +39,6 @@
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed1v0&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&bg_color=0b0d12&title_color=a78bfa&icon_color=22d3ee&text_color=e6e8ef&border_radius=12" height="125" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=ahmed1v0&hide_border=true&background=0b0d12&ring=7c3aed&fire=22d3ee&currStreakLabel=a78bfa&currStreakNum=e6e8ef&sideLabels=94a3b8&sideNums=e6e8ef&dates=64748b&border_radius=12" height="125" alt="Contribution streak" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmed1v0&layout=compact&langs_count=8&hide_border=true&bg_color=0b0d12&title_color=a78bfa&text_color=e6e8ef&border_radius=12" height="125" alt="Top languages" />
-
-</div>
 
 ## Competitive Programming
 
