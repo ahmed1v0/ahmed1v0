@@ -21,46 +21,7 @@
 - Interested in **clean architecture, DDD, security, observability, testing, performance, and production readiness**.
 - Competitive programming keeps the algorithmic side sharp: correctness, edge cases, and efficient solutions.
 
-## Currently Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Interview Intelligence
-
-AI-assisted hiring and interview intelligence platform.
-
-`ASP.NET Core` `Next.js` `PostgreSQL` `Redis` `AI` `Docker`
-
-- Structured interview operations
-- Transcription and AI-assisted insights
-- Evidence-backed evaluations
-- Secure authentication and authorization
-- Background processing and production hardening
-
-[**Explore repository →**](https://github.com/ahmed1v0/InterviewIntelligence)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 LeadAtlas
-
-Company discovery and lead intelligence platform.
-
-`.NET 10` `React` `PostgreSQL` `EF Core` `Docker`
-
-- Structured company and location data
-- Lead discovery workflows
-- Modular architecture
-- Automated architecture and integration tests
-- Full-stack product development
-
-[**Explore repository →**](https://github.com/ahmed1v0/LeadAtlas)
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack
 
