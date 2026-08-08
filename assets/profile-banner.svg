@@ -1,0 +1,71 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B12"/>
+      <stop offset="0.52" stop-color="#0D1320"/>
+      <stop offset="1" stop-color="#080B12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="280" y1="50" x2="930" y2="245" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(965 70) rotate(133) scale(310 310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(195 252) rotate(-37) scale(330 280)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#334155" stroke-opacity=".14" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#glowA)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#glowB)"/>
+
+  <circle cx="1034" cy="128" r="112" stroke="url(#accent)" stroke-opacity=".17"/>
+  <circle cx="1034" cy="128" r="79" stroke="url(#accent)" stroke-opacity=".24"/>
+  <circle cx="1034" cy="128" r="47" stroke="url(#accent)" stroke-opacity=".35"/>
+  <circle cx="1034" cy="128" r="6" fill="#A78BFA"/>
+  <circle cx="965" cy="70" r="4" fill="#22D3EE"/>
+  <circle cx="1101" cy="187" r="4" fill="#60A5FA"/>
+  <path d="M965 70L1034 128L1101 187M1034 128L1110 63M1034 128L950 195" stroke="url(#accent)" stroke-width="2" stroke-opacity=".55"/>
+  <circle cx="1110" cy="63" r="4" fill="#8B5CF6"/>
+  <circle cx="950" cy="195" r="4" fill="#22D3EE"/>
+
+  <g opacity=".8">
+    <path d="M100 97L61 128L100 159" stroke="#60A5FA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M160 97L199 128L160 159" stroke="#22D3EE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M145 78L116 178" stroke="#A78BFA" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <text x="280" y="112" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="750" letter-spacing="-1.4">
+    Ahmed Samer
+  </text>
+  <rect x="280" y="137" width="452" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="280" y="181" fill="#CBD5E1" font-family="JetBrains Mono,Consolas,monospace" font-size="19" font-weight="600">
+    Software Engineer · Full-Stack · AI Engineering
+  </text>
+  <text x="280" y="216" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">
+    Clean architecture. Production systems. Useful AI.
+  </text>
+
+  <g transform="translate(280 240)">
+    <rect width="111" height="31" rx="15.5" fill="#111827" stroke="#334155"/>
+    <text x="55.5" y="20.5" text-anchor="middle" fill="#93C5FD" font-family="JetBrains Mono,Consolas,monospace" font-size="12" font-weight="700">.NET 10</text>
+    <rect x="121" width="118" height="31" rx="15.5" fill="#111827" stroke="#334155"/>
+    <text x="180" y="20.5" text-anchor="middle" fill="#C4B5FD" font-family="JetBrains Mono,Consolas,monospace" font-size="12" font-weight="700">Next.js</text>
+    <rect x="249" width="124" height="31" rx="15.5" fill="#111827" stroke="#334155"/>
+    <text x="311" y="20.5" text-anchor="middle" fill="#67E8F9" font-family="JetBrains Mono,Consolas,monospace" font-size="12" font-weight="700">PostgreSQL</text>
+    <rect x="383" width="91" height="31" rx="15.5" fill="#111827" stroke="#334155"/>
+    <text x="428.5" y="20.5" text-anchor="middle" fill="#DDD6FE" font-family="JetBrains Mono,Consolas,monospace" font-size="12" font-weight="700">AI / LLM</text>
+  </g>
+</svg>
