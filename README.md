@@ -63,11 +63,6 @@
 
 <div align="center">
 
-### Live 3D Contribution Activity
-
-<img src="https://commitpulse.vercel.app/api/streak?user=ahmed1v0&theme=aurora_cyberpunk" width="96%" alt="Live animated 3D GitHub contribution activity" />
-
-<br/><br/>
 
 ### Live Contribution Heatmap
 
